@@ -64,8 +64,7 @@ The middleware remains in the codebase for demonstration, but is disabled in pro
 
 ✔ Swagger
 Swagger UI is exposed through API Gateway.
-Server URL is dynamically injected via configuration:
-"Swagger:ServerUrl": "https://tuition-gw-<name>.azure-api.net/tuition"
+Server URL is dynamically injected via configuration.
 
 Every version (v1) has its own Swagger document.
 
